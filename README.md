@@ -1,3 +1,7 @@
+# Bootcamp Server Backend
+## By Abdul
+This is a Backend Server to handle posts
+
 # Express-Boilerplate
 This is a very simple Node Express application that serves as a web server. This application attempts to demonstrate the building of a very simple express app as well as the creation of a few api's to effect data changes.
 
